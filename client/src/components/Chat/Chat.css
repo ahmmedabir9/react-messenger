@@ -11,9 +11,9 @@
   flex-direction: column;
   justify-content: space-between;
   background: #ffffff;
-  border-radius: 8px;
-  height: 60%;
-  width: 35%;
+  border-radius: 2px;
+  height: 90%;
+  width: 80%;
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
